@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/home.css";
-import Admission from "../assets/Admission.png";
+import Admission from "../assets/admission.png";
+
 import mail from "../assets/mail.png";
 import office from "../assets/office.png";
 import portal from "../assets/portal.png";
