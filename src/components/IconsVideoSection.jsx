@@ -6,7 +6,8 @@ import seminar from "../assets/seminar.png";
 import career from "../assets/carrer.png";
 import admission from "../assets/admission.png";
 import course from "../assets/course.png";
-import samarth from "../assets/samarth.png";
+import samarth from "../assets/Samarth.png";
+
 import clgvideo from "../assets/clgvideo.mp4";
 
 const IconsVideoSection = () => {
